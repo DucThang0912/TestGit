@@ -11,5 +11,9 @@ namespace TestGit
         private string hihi;
 
         public string Hihi { get => hihi; set => hihi = value; }
+
+        private string hoho;
+
+        public string Hoho { get => hoho; set => hoho = value; }
     }
 }
