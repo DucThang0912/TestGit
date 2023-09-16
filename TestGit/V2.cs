@@ -8,5 +8,8 @@ namespace TestGit
 {
     internal class V2
     {
+        private string hoho;
+
+        public string Hoho { get => hoho; set => hoho = value; }
     }
 }
